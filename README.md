@@ -7,6 +7,14 @@ Mis hobbies son actualmente:
 - Ver peliculas o series
 - Jugar al futbol
 
+Tengo 19 años, y me encuentro cursando mi segundo año en la UTN
+
+La ultima pelicula que vi fue Rapidos y Furiosos (la volvi a ver)
+![image](https://github.com/pdepjuevesTT/2024-presentacion-franm1313/assets/164399517/fd03b467-f748-4004-b49f-0c1223129c6d)
+
+
+
+
   
   
 
