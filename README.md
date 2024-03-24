@@ -1,10 +1,12 @@
-# presentacion-
+# Francisco Gonzalez Miel
 
-- Escriban presentación sobre ustedes.
-- Suban la presentación a Git.
-- Realicen algun cambio.
-- Suban los nuevos cambios.
-- Compartan el link por discord
-- Hagan algun comentario sobre el repositorio de algun otro compañere. Al menos 2.
+## Sobre mí
+Mis hobbies son actualmente:
+- Entrenar
+- Ver peliculas o series
+- Jugar al futbol
 
-Ya saben usar git!
+  
+  
+
+
